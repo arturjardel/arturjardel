@@ -14,15 +14,9 @@
 
   <!-- Quick Links & Contact Pills -->
   <p align="center">
-    <a href="https://arturjardel.com.br">
-      <img src="https://img.shields.io/badge/Portfolio-arturjardel.com.br-0a0a0a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=111827&color=38bdf8" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/arturjardel">
-      <img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Farturjardel-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=111827&color=0284c7" alt="LinkedIn" />
-    </a>
-    <a href="mailto:arturjardel9@gmail.com">
-      <img src="https://img.shields.io/badge/Email-arturjardel9%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=111827&color=1e293b" alt="Email" />
-    </a>
+    <a href="https://arturjardel.com.br" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-arturjardel.com.br-0a0a0a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=111827&color=38bdf8" alt="Portfolio" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/arturjardel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Farturjardel-0a0a0a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4YmRmOCI+PHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4=&labelColor=111827&color=0284c7" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:arturjardel9@gmail.com"><img src="https://img.shields.io/badge/Email-arturjardel9%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=111827&color=1e293b" alt="Email" /></a>
   </p>
 
 </div>
