@@ -19,39 +19,39 @@
     .card-highlight { font-size: 12.5px; font-weight: 600; fill: #7dd3fc; }
   </style>
 
-  <!-- Card 1: Production SaaS -->
+  <!-- Card 1: Current Focus — Automation & SaaS -->
   <g transform="translate(0, 0)">
     <rect x="2" y="2" width="384" height="216" rx="16" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5" />
-    <text x="26" y="38" class="font-mono tag">01 // PRODUCTION SAAS</text>
-    <text x="26" y="72" class="font-sans card-title">oHub Commercial AI Platform</text>
-    <text x="26" y="102" class="font-sans card-line">Multi-tenant WhatsApp SaaS uniting</text>
-    <text x="26" y="122" class="font-sans card-line">hybrid AI + human inbox, Kanban CRM,</text>
-    <text x="26" y="142" class="font-sans card-line">Google Calendar sync &amp; AI governance.</text>
+    <text x="26" y="38" class="font-mono tag">01 // PROCESS AUTOMATION &amp; SAAS</text>
+    <text x="26" y="72" class="font-sans card-title">Commercial Ecosystems &amp; oHub</text>
+    <text x="26" y="102" class="font-sans card-line">Architecting automated commercial</text>
+    <text x="26" y="122" class="font-sans card-line">workflows, AI agents, CRM pipelines &amp;</text>
+    <text x="26" y="142" class="font-sans card-line">multi-tenant WhatsApp integrations.</text>
     <rect x="26" y="168" width="332" height="28" rx="6" fill="#0c2336" fill-opacity="0.7" />
-    <text x="40" y="186" class="font-mono card-highlight">React 19 · Supabase RLS · n8n · Meta API</text>
+    <text x="40" y="186" class="font-mono card-highlight">n8n · Supabase · EvolutionAPI · React</text>
   </g>
 
-  <!-- Card 2: Academic Research & IoHT -->
+  <!-- Card 2: Full-Stack & Back-End Engineering -->
   <g transform="translate(408, 0)">
     <rect x="2" y="2" width="384" height="216" rx="16" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5" />
-    <text x="26" y="38" class="font-mono tag">02 // SCIENTIFIC RESEARCH (UFC)</text>
-    <text x="26" y="72" class="font-sans card-title">OpenIoHT Sensor Framework</text>
-    <text x="26" y="102" class="font-sans card-line">Backend framework for high-frequency</text>
-    <text x="26" y="122" class="font-sans card-line">biomechanical time-series ingestion,</text>
-    <text x="26" y="142" class="font-sans card-line">semantic validation &amp; Kaggle curation.</text>
+    <text x="26" y="38" class="font-mono tag">02 // FULL-STACK &amp; BACK-END</text>
+    <text x="26" y="72" class="font-sans card-title">Web Systems &amp; RESTful APIs</text>
+    <text x="26" y="102" class="font-sans card-line">End-to-end development of scalable</text>
+    <text x="26" y="122" class="font-sans card-line">web applications, microservices, and</text>
+    <text x="26" y="142" class="font-sans card-line">containerized backend architectures.</text>
     <rect x="26" y="168" width="332" height="28" rx="6" fill="#0c2336" fill-opacity="0.7" />
-    <text x="40" y="186" class="font-mono card-highlight">NestJS · InfluxDB · TypeScript · Docker</text>
+    <text x="40" y="186" class="font-mono card-highlight">Next.js · Vite · Nest.js · FastAPI · Docker</text>
   </g>
 
-  <!-- Card 3: Interactive 3D & Product Engineering -->
+  <!-- Card 3: Data Science, AI & Technical Leadership -->
   <g transform="translate(816, 0)">
     <rect x="2" y="2" width="382" height="216" rx="16" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.5" />
-    <text x="26" y="38" class="font-mono tag">03 // 3D WEBGL &amp; EXTENSIONS</text>
-    <text x="26" y="72" class="font-sans card-title">LoteVerse 3D &amp; UseAtalho</text>
-    <text x="26" y="102" class="font-sans card-line">Interactive 3D real estate visualization</text>
-    <text x="26" y="122" class="font-sans card-line">with Unity WebGL, plus Chrome MV3</text>
-    <text x="26" y="142" class="font-sans card-line">productivity &amp; instant Pix ecosystems.</text>
+    <text x="26" y="38" class="font-mono tag">03 // DATA SCIENCE, AI &amp; WEB3</text>
+    <text x="26" y="72" class="font-sans card-title">Applied AI &amp; Tech Leadership</text>
+    <text x="26" y="102" class="font-sans card-line">Practical Data Science &amp; ML (Embrapa),</text>
+    <text x="26" y="122" class="font-sans card-line">Generative AI platforms, 3D/Web3 apps,</text>
+    <text x="26" y="142" class="font-sans card-line">and agile engineering squad leadership.</text>
     <rect x="26" y="168" width="330" height="28" rx="6" fill="#0c2336" fill-opacity="0.7" />
-    <text x="40" y="186" class="font-mono card-highlight">Next.js · Unity WebGL · Chrome MV3</text>
+    <text x="40" y="186" class="font-mono card-highlight">Python · ML/DL · GenAI · PostgreSQL</text>
   </g>
 </svg>
