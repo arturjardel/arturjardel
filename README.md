@@ -1,18 +1,90 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-j9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arturjardel9@gmail.com) 
+  <!-- Custom Theme-Aligned SVG Hero Banner (#0a0a0a + #38bdf8 Sky Neon) -->
+  <img src="./assets/hero-banner.svg" width="100%" alt="Artur Jardel — Full-Stack Software Engineer & AI Automation Architect" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arturj9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arturj9&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturj9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arturj9&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+  <!-- Dynamic Typing Headline -->
+  <a href="https://arturjardel.com.br">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Engineer+%26+AI+Automation+Architect;Building+oHub+%E2%80%94+Multi-Tenant+AI+Customer+Service+%26+CRM+SaaS;Autonomous+AI+Agents+with+n8n%2C+RAG+%26+Model+Context+Protocol+(MCP);IoHT+Data+Engineering+Researcher+(OpenIoHT+%40+GREat+%2F+UFC)" alt="Typing SVG" />
+  </a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Quick Links & Contact Pills -->
+  <p align="center">
+    <a href="https://arturjardel.com.br">
+      <img src="https://img.shields.io/badge/Portfolio-arturjardel.com.br-0a0a0a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=111827&color=38bdf8" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/arturjardel">
+      <img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Farturjardel-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=111827&color=0284c7" alt="LinkedIn" />
+    </a>
+    <a href="mailto:arturjardel9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-arturjardel9%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=111827&color=1e293b" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### ⚡ Engineering Snapshot
+
+<div align="center">
+  <img src="./assets/bento-focus.svg" width="100%" alt="Engineering Bento Focus — oHub, OpenIoHT & LoteVerse" />
+</div>
+
+---
+
+### 🚀 Flagship Production Systems & Research
+
+| Project / System | Architecture & Impact | Core Stack | Live / Reference |
+| :--- | :--- | :--- | :---: |
+| **oHub**<br/>*Multi-Tenant AI Customer Service & CRM SaaS* | Commercial operations platform built for **OQV** centralizing WhatsApp channels with strict multi-operation isolation (`client + phone + agent`), hybrid AI + human handoff inbox, configurable Kanban CRM, Google Calendar sync, and AI agent governance. | `React 19` · `TypeScript` · `Supabase (RLS/RPC)` · `n8n` · `Meta & Evolution API` | [🌐 Live SaaS](https://ohub.organizaquevende.com) |
+| **LoteVerse**<br/>*3D Real Estate & Land Visualization* | Interactive spatial platform built for the **ExpoVerse Web3 Challenge (RESTIC 29)** enabling buyers and developers to explore land plots and real estate developments inside an interactive 3D map. | `React` · `TypeScript` · `Unity WebGL` · `Tailwind CSS` · `Vite` | [🌐 Live 3D App](https://loteverse.arturjardel.com.br/)<br/>[💻 Repository](https://github.com/arturjardel/loteverse) |
+| **OpenIoHT**<br/>*Internet of Health Things Framework* | B.S. Thesis research framework at **GREat / UFC** for high-frequency biomechanical time-series ingestion, semantic DTO validation, raw stream preservation, and automated Kaggle dataset curation (*Timed Up and Go* clinical protocol). | `NestJS` · `TypeScript` · `InfluxDB` · `Docker` · `React Native` | 🎓 *UFC Research* |
+| **Simula IA**<br/>*Generative AI Simulation Platform* | Web platform and intelligent backend API utilizing Generative AI to generate, manage, and evaluate interactive exams and simulations across multiple domains. | `Next.js` · `TypeScript` · `Node.js` · `Generative AI` · `PostgreSQL` | [🌐 Live App](https://simula-ia.vercel.app/)<br/>[💻 Backend Repo](https://github.com/arturjardel/simula-ia-back) |
+| **Loading Jr. & Digital Voting**<br/>*Institutional Web & Electronic Urn* | Official institutional platform and secure online voting system built while serving as **Project Director & Back-End Coordinator** at Loading Desenvolvimento Jr. (UFC). | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` | [🌐 Loading Jr.](https://loadingjr.com.br/)<br/>[🗳️ Electronic Urn](https://urna.loadingjr.com.br/) |
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css,figma&theme=dark" alt="Frontend Stack" /> |
+| **Backend, Data & DevOps** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,django,express,supabase,postgres,mysql,sqlite,docker,git,github,vercel&theme=dark" alt="Backend & Data Stack" /> |
+| **AI, Automation & Data Science** | ![n8n](https://img.shields.io/badge/n8n_Workflows-0a0a0a?style=for-the-badge&logo=n8n&logoColor=38bdf8&borderColor=1e293b) ![RAG & MCP](https://img.shields.io/badge/RAG_%26_MCP_Agents-0a0a0a?style=for-the-badge&logo=openai&logoColor=38bdf8) ![InfluxDB](https://img.shields.io/badge/InfluxDB_Time--Series-0a0a0a?style=for-the-badge&logo=influxdb&logoColor=38bdf8) ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=38bdf8) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=38bdf8) ![Pandas](https://img.shields.io/badge/Pandas_%26_NumPy-0a0a0a?style=for-the-badge&logo=pandas&logoColor=38bdf8) |
+
+</div>
+
+---
+
+### 📊 GitHub Telemetry & Activity
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=arturjardel&show_icons=true&bg_color=0a0a0a&title_color=38bdf8&text_color=ededed&icon_color=38bdf8&border_color=1e293b&hide_border=false&include_all_commits=true&count_private=true" alt="Artur Jardel GitHub Stats" />
+  <img height="175" src="https://streak-stats.demolab.com?user=arturjardel&theme=dark&background=0A0A0A&border=1E293B&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=38BDF8&sideLabels=A1A1AA&dates=A1A1AA" alt="Artur Jardel GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arturjardel&theme=github_dark" alt="Contribution Activity Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturjardel&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=38bdf8&text_color=ededed&border_color=1e293b" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Grid Snake
+
+<div align="center">
+  <img alt="Artur Jardel Contribution Grid Snake" src="./assets/contribution-snake-dark.svg" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & engineered by <a href="https://arturjardel.com.br"><b>Artur Jardel</b></a> • Fortaleza / Sobral, Brazil 🇧🇷</sub>
+</div>

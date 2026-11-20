@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e" />
+      <stop offset="50%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#08111d" />
+    </linearGradient>
+
+    <radialGradient id="glowPrimary" cx="82%" cy="22%" r="48%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22" />
+      <stop offset="55%" stop-color="#0284c7" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowSecondary" cx="15%" cy="88%" r="45%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="accentText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#7dd3fc" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#27272a" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.25" />
+    </linearGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-opacity="0.06" />
+    </pattern>
+  </defs>
+
+  <style>
+    .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+    .title { font-size: 52px; font-weight: 800; fill: #ededed; letter-spacing: -1.5px; }
+    .subtitle { font-size: 22px; font-weight: 600; fill: url(#accentText); letter-spacing: -0.3px; }
+    .desc { font-size: 15px; font-weight: 400; fill: #a1a1aa; }
+    .pill-bg { fill: #111827; fill-opacity: 0.75; stroke: #38bdf8; stroke-opacity: 0.28; stroke-width: 1; }
+    .pill-text { font-size: 12.5px; font-weight: 600; fill: #e2e8f0; }
+    .term-text { font-size: 12.5px; fill: #7dd3fc; }
+    .status-text { font-size: 11.5px; font-weight: 700; fill: #38bdf8; letter-spacing: 1.2px; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; r: 4.5; }
+      50% { opacity: 0.35; r: 6.5; }
+    }
+    .pulse-dot { animation: pulse 2.2s infinite ease-in-out; }
+  </style>
+
+  <!-- Main Background Card -->
+  <rect width="1200" height="340" rx="20" fill="url(#bgGrad)" />
+  <rect width="1200" height="340" rx="20" fill="url(#grid)" />
+  <rect width="1200" height="340" rx="20" fill="url(#glowPrimary)" />
+  <rect width="1200" height="340" rx="20" fill="url(#glowSecondary)" />
+  <rect x="1" y="1" width="1198" height="338" rx="19" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Terminal / Glassmorphism Bar -->
+  <rect x="44" y="28" width="1112" height="38" rx="10" fill="#12151e" fill-opacity="0.82" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1" />
+  <circle cx="66" cy="47" r="5.5" fill="#ef4444" fill-opacity="0.85" />
+  <circle cx="84" cy="47" r="5.5" fill="#eab308" fill-opacity="0.85" />
+  <circle cx="102" cy="47" r="5.5" fill="#22c55e" fill-opacity="0.85" />
+  <text x="126" y="51" class="font-mono term-text">arturjardel@ufc-sobral:~/portfolio-v2 $ status --live</text>
+
+  <!-- Right Live Status Pill inside Top Bar -->
+  <rect x="910" y="35" width="234" height="24" rx="12" fill="#0c2336" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1" />
+  <circle cx="927" cy="47" r="4.5" fill="#38bdf8" class="pulse-dot" />
+  <text x="941" y="51" class="font-mono status-text">BUILDING THE FUTURE</text>
+
+  <!-- Main Heading & Positioning -->
+  <text x="52" y="138" class="font-sans title">Artur Jardel</text>
+  <text x="52" y="176" class="font-sans subtitle">Full-Stack Software Engineer  •  AI Agents &amp; Automation Architect</text>
+  <text x="52" y="212" class="font-sans desc">Architecting scalable multi-tenant SaaS (oHub), autonomous AI workflows (n8n, RAG, MCP), and IoHT data frameworks (OpenIoHT @ UFC).</text>
+
+  <!-- Bottom Feature Pills -->
+  <g transform="translate(52, 248)">
+    <rect x="0" y="0" width="188" height="34" rx="8" class="pill-bg" />
+    <text x="94" y="21.5" text-anchor="middle" class="font-mono pill-text">⚡ React 19 &amp; Next.js</text>
+
+    <rect x="202" y="0" width="212" height="34" rx="8" class="pill-bg" />
+    <text x="308" y="21.5" text-anchor="middle" class="font-mono pill-text">🔷 TypeScript &amp; NestJS</text>
+
+    <rect x="428" y="0" width="228" height="34" rx="8" class="pill-bg" />
+    <text x="542" y="21.5" text-anchor="middle" class="font-mono pill-text">🤖 AI Agents · RAG · MCP</text>
+
+    <rect x="670" y="0" width="216" height="34" rx="8" class="pill-bg" />
+    <text x="778" y="21.5" text-anchor="middle" class="font-mono pill-text">🗄️ Supabase &amp; InfluxDB</text>
+
+    <rect x="900" y="0" width="196" height="34" rx="8" class="pill-bg" />
+    <text x="998" y="21.5" text-anchor="middle" class="font-mono pill-text">🎓 Comp. Eng. @ UFC</text>
+  </g>
+</svg>
