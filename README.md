@@ -6,9 +6,7 @@
   <br/>
 
   <!-- Dynamic Typing Headline -->
-  <a href="https://arturjardel.com.br">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+%26+Automation+Developer+%7C+Computer+Engineering+%40+UFC;Building+Commercial+Automation+Ecosystems+(n8n+%C2%B7+Supabase+%C2%B7+EvolutionAPI);Full-Stack+Web+Engineering+(Next.js+%C2%B7+Vite+%C2%B7+Nest.js+%C2%B7+TypeScript+%C2%B7+Python);Applied+Data+Science%2C+Machine+Learning+%26+Generative+AI+Integrations" alt="Typing SVG" />
-  </a>
+  <a href="https://arturjardel.com.br" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Full-Stack+%26+Automation+Developer+%7C+Computer+Engineering+%40+UFC;Building+Commercial+Automation+Ecosystems+(n8n+%C2%B7+Supabase+%C2%B7+EvolutionAPI);Full-Stack+Web+Engineering+(Next.js+%C2%B7+Vite+%C2%B7+Nest.js+%C2%B7+TypeScript+%C2%B7+Python);Applied+Data+Science%2C+Machine+Learning+%26+Generative+AI+Integrations" alt="Typing SVG" /></a>
 
   <br/>
 
@@ -39,12 +37,12 @@
 
 | Project | Description & Value Delivered | Stack | Live / Code |
 | :--- | :--- | :--- | :---: |
-| **oHub**<br/>*AI Customer Service, CRM & WhatsApp SaaS* | Multi-tenant SaaS platform developed for **Organiza Que Vende (OQV)** that centralizes commercial WhatsApp operations: hybrid AI + human handoff inbox, configurable Kanban CRM, Google Calendar sync, and AI agent governance. | `React` · `TypeScript` · `Vite` · `Supabase` · `n8n` · `EvolutionAPI` | [🌐 Live Platform](https://ohub.organizaquevende.com) |
-| **LoteVerse**<br/>*3D Real Estate & Land Plot Visualization* | Interactive real estate platform built during the **Web 3.0 & Metaverse Residency (RESTIC 29 / iRede)** allowing brokers and buyers to explore land plots directly on an interactive 3D map. | `React` · `TypeScript` · `Vite` · `Unity WebGL` · `Tailwind CSS` | [🌐 Live App](https://loteverse.arturjardel.com.br/)<br/>[💻 Repository](https://github.com/arturjardel/loteverse) |
-| **Simula IA**<br/>*AI-Powered Interactive Simulations* | Web platform and REST API that leverages Generative AI to create, manage, and evaluate interactive simulations across multiple domains. | `Next.js` · `TypeScript` · `Node.js` · `Generative AI` · `PostgreSQL` | [🌐 Live App](https://simula-ia.vercel.app/)<br/>[💻 Backend Repo](https://github.com/arturjardel/simula-ia-back) |
-| **Account & Elevasoft**<br/>*Financial AI & Enterprise Management* | AI-integrated financial automation platform (**Account**) and enterprise management system (**Elevasoft**) designed to optimize internal business workflows. | `Next.js` · `React` · `TypeScript` · `Python` · `FastAPI` | [🌐 Account](https://accont-five.vercel.app/login)<br/>[🌐 Elevasoft](https://elevaged.vercel.app/) |
-| **Loading Jr. & Electronic Urn**<br/>*Institutional Portal & Online Voting* | Modern institutional website and secure electronic voting platform delivered for **Loading Desenvolvimento Jr.** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` | [🌐 Loading Jr.](https://loadingjr.com.br/)<br/>[🗳️ Voting System](https://urna.loadingjr.com.br/) |
-| **Academic Search & Acaraú Valley**<br/>*Research Tool & Startup Ecosystem Portal* | Dedicated academic journal search engine (**Buscador Acadêmico**) and regional startup ecosystem portal (**Acaraú Valley**). | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` | [🌐 Academic Search](https://buscador-academico.vercel.app/)<br/>[🌐 Acaraú Valley](https://site-acarau-valley-beta.vercel.app/) |
+| **oHub**<br/>*AI Customer Service, CRM & WhatsApp SaaS* | Multi-tenant SaaS platform developed for **Organiza Que Vende (OQV)** that centralizes commercial WhatsApp operations: hybrid AI + human handoff inbox, configurable Kanban CRM, Google Calendar sync, and AI agent governance. | `React` · `TypeScript` · `Vite` · `Supabase` · `n8n` · `EvolutionAPI` | <a href="https://ohub.organizaquevende.com" target="_blank" rel="noopener noreferrer">🌐 Live Platform</a> |
+| **LoteVerse**<br/>*3D Real Estate & Land Plot Visualization* | Interactive real estate platform built during the **Web 3.0 & Metaverse Residency (RESTIC 29 / iRede)** allowing brokers and buyers to explore land plots directly on an interactive 3D map. | `React` · `TypeScript` · `Vite` · `Unity WebGL` · `Tailwind CSS` | <a href="https://loteverse.arturjardel.com.br/" target="_blank" rel="noopener noreferrer">🌐 Live App</a><br/><a href="https://github.com/arturjardel/loteverse" target="_blank" rel="noopener noreferrer">💻 Repository</a> |
+| **Simula IA**<br/>*AI-Powered Interactive Simulations* | Web platform and REST API that leverages Generative AI to create, manage, and evaluate interactive simulations across multiple domains. | `Next.js` · `TypeScript` · `Node.js` · `Generative AI` · `PostgreSQL` | <a href="https://simula-ia.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Live App</a><br/><a href="https://github.com/arturjardel/simula-ia-back" target="_blank" rel="noopener noreferrer">💻 Backend Repo</a> |
+| **Account & Elevasoft**<br/>*Financial AI & Enterprise Management* | AI-integrated financial automation platform (**Account**) and enterprise management system (**Elevasoft**) designed to optimize internal business workflows. | `Next.js` · `React` · `TypeScript` · `Python` · `FastAPI` | <a href="https://accont-five.vercel.app/login" target="_blank" rel="noopener noreferrer">🌐 Account</a><br/><a href="https://elevaged.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Elevasoft</a> |
+| **Loading Jr. & Electronic Urn**<br/>*Institutional Portal & Online Voting* | Modern institutional website and secure electronic voting platform delivered for **Loading Desenvolvimento Jr.** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Node.js` | <a href="https://loadingjr.com.br/" target="_blank" rel="noopener noreferrer">🌐 Loading Jr.</a><br/><a href="https://urna.loadingjr.com.br/" target="_blank" rel="noopener noreferrer">🗳️ Voting System</a> |
+| **Academic Search & Acaraú Valley**<br/>*Research Tool & Startup Ecosystem Portal* | Dedicated academic journal search engine (**Buscador Acadêmico**) and regional startup ecosystem portal (**Acaraú Valley**). | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` | <a href="https://buscador-academico.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Academic Search</a><br/><a href="https://site-acarau-valley-beta.vercel.app/" target="_blank" rel="noopener noreferrer">🌐 Acaraú Valley</a> |
 
 ---
 
@@ -86,5 +84,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <a href="https://arturjardel.com.br"><b>Artur Jardel</b></a> • Sobral, Ceará — Brazil 🇧🇷</sub>
+  <sub>Designed & engineered by <a href="https://arturjardel.com.br" target="_blank" rel="noopener noreferrer"><b>Artur Jardel</b></a> • Sobral, Ceará — Brazil 🇧🇷</sub>
 </div>
